@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace DormAndMeal
 {
-    public partial class Form1 : Form
+    public partial class Total : Form
     {
-        public Form1()
+        public Total()
         {
             InitializeComponent();
         }
